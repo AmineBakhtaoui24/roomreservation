@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sc_cat_item" label="Room" max_length="40" name="x_252403_roomreser_room" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="RoomID" mandatory="true" max_length="40" name="number" type="string"/>
+        <element default="true" label="state" max_length="40" name="state" type="boolean"/>
+        <element default="DXC Technopolis" label="Building" mandatory="true" max_length="1500" name="u_building" type="string"/>
+        <element label="Capacity" max_length="40" name="u_capacity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Floor" mandatory="true" max_length="40" name="u_floor" type="string"/>
+    </element>
+</database>

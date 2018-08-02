@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a579ff51dba313006bb0487039961924" sys_domain="global" table="x_252403_roomreser_room" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 13:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e179ff51dba313006bb0487039961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_252403_roomreser_room" name="x_252403_roomreser_room" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">a579ff51dba313006bb0487039961924</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_252403_roomreser_room" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">ed79ff51dba313006bb0487039961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 13:27:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 13:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a179ff51dba313006bb0487039961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_252403_roomreser_room" name="x_252403_roomreser_room" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">a579ff51dba313006bb0487039961924</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_252403_roomreser_room" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">e579ff51dba313006bb0487039961927</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 13:27:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 13:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d79ff51dba313006bb048703996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_252403_roomreser_room" name="x_252403_roomreser_room" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">a579ff51dba313006bb0487039961924</sys_ui_form>
+            <sys_ui_section caption="Costs" display_value="Costs" name="x_252403_roomreser_room" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">a579ff51dba313006bb0487039961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 13:27:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_252403_roomreser_room</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 13:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a579ff51dba313006bb0487039961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_252403_roomreser_room</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RoomReservation" source="x_252403_roomreser">c13974fcdb2313006bb0487039961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RoomReservation">c13974fcdb2313006bb0487039961918</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a579ff51dba313006bb0487039961924</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 13:27:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Item Designer" name="sc_cat_item_designer">f5a795fceb3211003623666cd206fe19</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Réservation de Salle de réunion">4b07ccf5dbab13006bb048703996194d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 09:48:28</sys_created_on>
+        <sys_id>5867f403db6313006bb0487039961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Réservation de Salle de réunion</sys_name>
+        <sys_package display_value="RoomReservation" source="x_252403_roomreser">c13974fcdb2313006bb0487039961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RoomReservation">c13974fcdb2313006bb0487039961918</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5867f403db6313006bb0487039961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 09:48:28</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

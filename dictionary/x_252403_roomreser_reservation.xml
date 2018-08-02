@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Reservation" max_length="40" name="x_252403_roomreser_reservation" type="collection">
+        <element label="DateReservation" max_length="40" name="datereservation" type="glide_date"/>
+        <element label="Delay" max_length="40" name="delay" type="integer"/>
+        <element label="UserID" max_length="40" name="userid" reference="sys_user" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition/>
+        <guide display_value="Réservation de Salle de réunion">4b07ccf5dbab13006bb048703996194d</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Salle">ac58f547dbe313006bb04870399619ed</item>
+        <order/>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 14:33:08</sys_created_on>
+        <sys_id>26a63d83dbe313006bb04870399619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac58f547dbe313006bb04870399619ed</sys_name>
+        <sys_package display_value="RoomReservation" source="x_252403_roomreser">c13974fcdb2313006bb0487039961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RoomReservation">c13974fcdb2313006bb0487039961918</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_26a63d83dbe313006bb04870399619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 14:33:08</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>
